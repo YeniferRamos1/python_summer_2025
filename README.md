@@ -23,3 +23,9 @@ This is a course about Python for economist.
 2. Meryl Streep
 3. Denzel Washington
 4. Scarlett Johansson
+
+## Fields 
+1. Macroeconomics
+2. Development
+3. Econometrics
+4. Maching Learnig
