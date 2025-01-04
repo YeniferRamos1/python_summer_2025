@@ -17,3 +17,9 @@ This is a course about Python for economist.
 2. Oppenheimer
 3. Busqueda implacable
 4. Django 
+
+## Actors
+1. Leonardo DiCaprio
+2. Meryl Streep
+3. Denzel Washington
+4. Scarlett Johansson
